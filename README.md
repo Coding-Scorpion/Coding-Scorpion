@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/raheemxada41" target="blank"><img src="https://img.shields.io/twitter/follow/raheemxada41?logo=twitter&style=for-the-badge" alt="raheemxada41" /></a> </p>
 
-- 🔭 I’m currently working on **Heart Disease Prediction Using Machine Learning**
+- 🔭 I’m currently working on [Heart Disease Prediction Using Machine Learning](https://github.com/Coding-Scorpion/Heart-Disease-Prediction-Using-Machine-Learning-Algorithms)
 
 - 🌱 I’m currently learning **Data Science, Data Analysis, Deep Learning, Artificial Intelligence & AI Chatbots**
 
